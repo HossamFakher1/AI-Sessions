@@ -1,0 +1,602 @@
+,image path,Features data,labels,class name
+0,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000000 (6).png,[[1.9375614  0.         0.08620656 ... 0.         0.         1.1382024 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+1,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000005 (3).png,[[2.2254424  0.         1.7753457  ... 0.11375582 0.         0.4380641 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+2,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000005 (9).png,[[1.7807802 0.        1.9192389 ... 0.6265105 0.        1.4955817]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+3,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000008 (10).png,[[0.         0.         0.         ... 0.07570732 0.6872809  2.638389  ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+4,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000009 (3).png,[[0.6203216 0.        1.7942187 ... 2.7571926 0.        0.7831161]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+5,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000009 (7).png,[[1.4720563 0.        1.8723067 ... 2.8254993 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+6,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000013 (4).png,[[1.3737909  0.         0.8456373  ... 2.6859019  0.         0.64596623]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+7,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000013 (8).png,[[0.4022826 0.        0.3924451 ... 2.2657816 0.        1.1758416]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+8,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000014 (7).png,[[0.        0.        0.8139826 ... 0.2608925 0.        2.40428  ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+9,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000015 (10).png,[[0.50990945 0.         0.         ... 2.2327087  0.         0.        ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+10,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000015 (4).png,[[1.8946747 0.        1.1386981 ... 1.160456  0.        1.1969159]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+11,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000015 (9).png,[[0.36380166 0.         0.5875449  ... 2.1664882  0.         1.9937704 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+12,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000016 (9).png,[[1.3545223 0.        1.4162467 ... 1.002625  0.        1.2059853]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+13,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000017 (6).png,[[1.3442698 0.        0.6477056 ... 0.9862895 0.        1.7682552]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+14,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000017 (8).png,[[0.         0.         0.         ... 0.17449379 1.3744287  1.4852651 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+15,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000018 (5).png,[[1.7748257 0.        1.1610605 ... 2.6600409 0.        1.353715 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+16,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000019 (5).png,[[1.2905698 0.        1.8775836 ... 3.6060452 0.        0.9644029]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+17,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000020 (10).png,[[0.09471983 0.         0.         ... 0.12115711 0.         1.4592206 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+18,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000020 (5).png,[[0.17935431 0.         1.6213573  ... 3.083829   0.         1.1375593 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+19,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000020 (6).png,[[2.2967186  0.         2.328833   ... 0.91955864 0.         2.4072673 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+20,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000021 (3).png,[[0.88542724 0.         2.6233015  ... 3.1413295  0.         0.        ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+21,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000021 (4).png,[[1.0827973 0.        2.2657428 ... 2.336212  0.        0.7998353]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+22,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000021 (5).png,[[0.        0.        0.        ... 0.1203782 0.8142605 1.6043239]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+23,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000021 (6).png,[[0.7146977 0.        1.1486316 ... 0.6275698 0.        0.7629033]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+24,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000021 (8).png,[[1.3173642  0.         0.92855453 ... 2.1964457  0.         1.6559343 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+25,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000022 (10).png,[[1.934161  0.        1.2466743 ... 0.        0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+26,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000022 (2).png,[[1.67145   0.        1.8869028 ... 1.3367057 0.        1.3531426]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+27,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000022 (8).png,[[2.034851   0.         0.2900865  ... 1.3499727  0.         0.24343705]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+28,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000022 (9).png,[[1.5526264 0.        1.546333  ... 2.3754954 0.        1.0895658]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+29,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000022.png,[[0.         0.         0.45190063 ... 0.03550354 0.         3.5436046 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+30,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000023 (10).png,[[0.9845731  0.         0.         ... 2.3644872  0.         0.36393496]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+31,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000023 (5).png,[[1.83154    0.         1.5428576  ... 0.7449072  0.         0.15379351]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+32,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000023 (7).png,[[0.44245186 0.         0.86338043 ... 1.1858993  0.         0.9082652 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+33,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000023 (9).png,[[1.8637794 0.        2.0141673 ... 1.1206172 0.        1.7756827]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+34,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000024 (10).png,[[0.         0.         0.7879697  ... 1.3505058  0.         0.22039658]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+35,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000024 (6).png,[[0.17248717 0.         0.         ... 1.023967   0.         1.0113801 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+36,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000024 (7).png,[[0.7438295  0.         2.203218   ... 0.24511749 0.         0.        ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+37,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000024.png,[[0.         0.         0.31176767 ... 0.         0.         1.6222773 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+38,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000025 (6).png,[[1.7075338  0.         0.40167436 ... 3.083258   0.         0.38523507]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+39,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000026 (10).png,[[0.7656784 0.        0.        ... 2.8005562 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+40,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000026 (3).png,[[0.98169154 0.         2.5451212  ... 2.7100835  0.         0.56011796]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+41,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000027 (4).png,[[1.4208486 0.        2.052264  ... 1.422344  0.        1.35207  ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+42,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000027 (6).png,[[0.37141514 0.         1.8779309  ... 2.3683074  0.         2.200646  ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+43,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000029 (4).png,[[1.8779178 0.        3.0886946 ... 1.7215307 0.        1.7722747]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+44,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000029 (5).png,[[1.1032357  0.         0.66449887 ... 2.5110185  0.         0.3429972 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+45,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000029 (9).png,[[1.4428786 0.        1.423984  ... 1.9493911 0.        0.7090639]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+46,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000030 (4).png,[[2.829709   0.         2.7769237  ... 1.5458143  0.         0.03013742]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+47,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000031 (3).png,[[1.5927421  0.         1.0129378  ... 0.26583663 0.         2.5729492 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+48,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000032 (8).png,[[2.6738176  0.         2.0960207  ... 0.05279943 0.         2.1890252 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+49,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000033 (9).png,[[1.808047  0.        1.8610774 ... 2.1457047 0.        0.8797884]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+50,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000034 (6).png,[[1.4357018  0.         0.25059226 ... 1.1358058  0.         1.0271647 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+51,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000035 (4).png,[[0.6456873  0.         0.448326   ... 0.65160704 0.         0.8185622 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+52,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000035 (5).png,[[1.0660484 0.        0.7273923 ... 1.7535822 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+53,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000035 (6).png,[[0.        0.        2.9388738 ... 1.588505  0.        0.933839 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+54,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000035 (8).png,[[0.6698483  0.         0.48605824 ... 0.         0.         2.6005073 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+55,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000036 (6).png,[[1.6989217 0.        0.        ... 0.        0.        1.6123343]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+56,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000036 (7).png,[[1.5614753  0.         2.145232   ... 1.868053   0.         0.60373193]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+57,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000040 (10).png,[[0.4163747  0.         0.4635237  ... 2.7278159  0.         0.99911857]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+58,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000040 (3).png,[[1.005796  0.        0.9095032 ... 1.5293217 0.        0.2420851]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+59,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000040 (5).png,[[2.0006871 0.        3.0444274 ... 1.3510358 0.        1.2501626]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+60,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000041 (2).png,[[3.057272  0.        0.8122797 ... 2.7827103 0.        0.8375683]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+61,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000041 (4).png,[[1.1961217 0.        1.2256331 ... 2.3830438 0.        0.7426741]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+62,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000041 (7).png,[[0.6090044 0.        2.161769  ... 0.5210361 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+63,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000041 (8).png,[[1.3799918 0.        1.8586533 ... 0.5842749 0.        1.3138368]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+64,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000042 (10).png,[[2.9264646  0.         1.1538619  ... 1.1310346  0.         0.34358656]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+65,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000044 (10).png,[[1.2454987  0.         0.6407042  ... 0.29224616 0.         0.6272155 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+66,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000044 (9).png,[[0.         0.         0.82763785 ... 1.7384586  0.         0.04591352]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+67,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000046 (5).png,[[1.0776663 0.        2.4706578 ... 3.1355903 0.        0.1951909]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+68,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000048 (8).png,[[2.048091   0.         0.25082254 ... 1.2686498  0.         1.1553118 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+69,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000048.png,[[1.2016261  0.         1.4002302  ... 0.05660731 0.         2.6646123 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+70,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000049 (5).png,[[0.        0.        0.        ... 0.5275098 0.        1.5858003]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+71,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000049 (9).png,[[1.200809  0.        1.1551743 ... 3.0541441 0.        1.8565078]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+72,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000050 (3).png,[[1.1383554  0.         1.7762526  ... 0.88567275 0.         1.0010238 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+73,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000050 (5).png,[[1.8792354 0.        0.7029862 ... 1.1869097 0.        0.9256573]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+74,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000050 (7).png,[[1.099835  0.        1.1272907 ... 1.1162546 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+75,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000050 (8).png,[[1.7977723  0.         0.6891963  ... 0.5043502  0.         0.72412944]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+76,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000051 (3).png,[[0.0701856 0.        2.4562373 ... 3.5113008 0.        0.8688934]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+77,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000051 (4).png,[[0.         0.         0.23335803 ... 2.8139725  0.         0.28903228]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+78,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000052 (10).png,[[0.5977447  0.         0.         ... 0.00608605 0.         1.5811307 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+79,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000054 (5).png,[[1.0742121 0.        1.6351265 ... 2.5708005 0.        1.4214697]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+80,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000054 (6).png,[[0.93295485 0.         0.83252513 ... 1.8305631  0.11579341 1.0241619 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+81,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000054 (7).png,[[0.677815   0.         2.6975303  ... 0.8681981  0.         0.17514893]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+82,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000054.png,[[3.1468267 0.        1.1370016 ... 1.4979671 0.        1.3810036]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+83,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000055 (2).png,[[2.9807577 0.        1.3985671 ... 3.7357538 0.        1.2002003]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+84,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000056 (7).png,[[0.         0.         1.5244421  ... 2.0849411  0.         0.56708735]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+85,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000057 (2).png,[[1.840669  0.        1.8006076 ... 2.3297174 0.        0.6547274]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+86,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000057.png,[[0.        0.        1.5819132 ... 1.4553304 0.        3.0780733]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+87,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000058 (4).png,[[2.0129147 0.        0.9570689 ... 3.4417572 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+88,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000058 (5).png,[[0.        0.        0.        ... 0.7762026 0.        1.518024 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+89,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000059 (7).png,[[0.         0.         0.40012395 ... 2.3479908  0.         0.01589733]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+90,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000061.png,[[0.41056025 0.         1.2565277  ... 0.41639307 0.         0.9432777 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+91,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000063 (3).png,[[1.5288422 0.        1.2829865 ... 0.3883474 0.        2.3647828]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+92,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000063 (5).png,[[1.584944   0.         1.9260439  ... 2.4167483  0.         0.39055914]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+93,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000063 (7).png,[[1.9272662  0.         0.69679224 ... 0.67614377 0.         0.7299069 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+94,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000065 (3).png,[[1.1585962 0.        0.6846079 ... 2.261075  0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+95,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000065 (8).png,[[1.6990254  0.         0.02923143 ... 0.6223941  0.         0.31119955]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+96,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000065 (9).png,[[1.1239138  0.         1.387465   ... 0.853422   0.         0.73877156]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+97,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000066 (10).png,[[0.5088595  0.         0.         ... 0.         0.         0.07728153]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+98,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000066 (9).png,[[1.6064854  0.         1.4315897  ... 0.19652236 0.         0.67300904]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+99,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000067 (10).png,[[0.27467024 0.         0.         ... 3.6457703  0.         0.        ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+100,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000067.png,[[0.         0.         2.235831   ... 0.80465055 0.         2.0584884 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+101,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000068 (10).png,[[1.0861702 0.        0.        ... 0.4746736 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+102,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000068 (3).png,[[1.9244555 0.        2.105551  ... 3.316281  0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+103,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000068 (9).png,[[1.0475105  0.         1.0703871  ... 0.71974486 0.         0.323164  ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+104,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000069 (6).png,[[0.        0.        3.0295815 ... 0.3583759 0.        1.8706951]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+105,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000071 (3).png,[[1.1916242 0.        2.751678  ... 1.2758384 0.        0.7536533]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+106,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000072 (10).png,[[1.2943203 0.        1.4035513 ... 2.5590336 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+107,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000074 (5).png,[[1.3385663 0.        2.063795  ... 1.490886  0.        0.9791311]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+108,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000075 (5).png,[[1.7179815 0.        1.7188411 ... 3.719026  0.        1.0176771]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+109,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000077 (6).png,[[0.6376736 0.        2.740909  ... 0.        0.        2.4110804]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+110,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000077 (9).png,[[2.0685966 0.        2.8618708 ... 0.        0.        0.9004735]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+111,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000078 (6).png,[[1.805559   0.         3.0315895  ... 0.9369041  0.         0.38493276]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+112,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000079 (6).png,[[1.459368  0.        1.3415222 ... 1.1421783 0.        1.7373502]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+113,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000080 (10).png,[[2.043387  0.        1.2536976 ... 0.6787429 0.        0.0082978]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+114,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000080 (6).png,[[0.        0.        2.1067486 ... 0.4941895 0.        1.4904097]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+115,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000081 (2).png,[[1.9872602 0.        0.7387335 ... 1.9277861 0.        1.1186875]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+116,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000083 (3).png,[[0.79998475 0.         0.77913326 ... 1.1125084  0.         0.49940115]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+117,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000083 (6).png,[[1.2014195 0.        2.4303248 ... 0.        0.        2.1117718]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+118,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000084 (2).png,[[1.0745108 0.        1.4035349 ... 1.9575431 0.        0.9906471]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+119,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000084 (3).png,[[2.2352295 0.        2.0116827 ... 1.7398663 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+120,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000084 (7).png,[[0.        0.        0.6301039 ... 1.5941505 0.        0.7578585]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+121,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000084.png,[[0.         0.         0.30397844 ... 0.         0.         1.796397  ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+122,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000085 (10).png,[[1.6038032 0.        1.5830659 ... 1.6176202 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+123,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000085 (4).png,[[1.7002283 0.        0.908162  ... 0.6010353 0.        1.2519476]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+124,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000085 (7).png,[[0.12343872 0.         1.4339367  ... 1.6994736  0.         0.9550322 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+125,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000086 (3).png,[[1.5077658  0.         1.349922   ... 0.57523227 0.         1.0156603 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+126,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000086 (8).png,[[2.0886412  0.         2.4974785  ... 0.34821814 0.         1.5230227 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+127,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000087 (4).png,[[1.4039052 0.        1.1517681 ... 1.1967981 0.        0.3455066]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+128,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000087 (8).png,[[1.1636965 0.        0.5880127 ... 1.7624524 0.        1.3565376]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+129,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000089 (8).png,[[0.58021885 0.         0.14911488 ... 2.7147195  0.         1.4369075 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+130,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000090 (2).png,[[1.5219882 0.        1.8497039 ... 3.0620286 0.        0.2026782]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+131,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000091 (3).png,[[0.         0.         1.8500017  ... 2.6588678  0.         0.22609884]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+132,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000091 (7).png,[[0.         0.         0.38912156 ... 2.0281138  0.         2.2908597 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+133,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000091.png,[[0.7274103 0.        1.1769536 ... 3.8247025 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+134,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000092 (10).png,[[1.4544306 0.        0.7731211 ... 2.093418  0.        0.2581479]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+135,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000093 (10).png,[[1.3505768 0.        1.7880888 ... 0.        0.        0.704139 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+136,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000093 (4).png,[[0.81005716 0.         1.5814018  ... 2.954656   0.         0.47711402]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+137,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000093 (6).png,[[2.024612  0.        2.6601868 ... 0.7283609 0.        1.3246332]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+138,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000095 (6).png,[[0.        0.        0.7771932 ... 2.300611  0.        2.0701702]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+139,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000095.png,[[1.8853493 0.        2.5408053 ... 0.7727689 0.        2.458783 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+140,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000096 (7).png,[[0.        0.        0.5721668 ... 0.5537447 0.        0.8853924]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+141,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000097 (10).png,[[1.435777  0.        0.8113719 ... 0.        0.        2.1460361]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+142,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000097 (2).png,[[1.3211145 0.        1.723096  ... 2.2207675 0.        1.0194318]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+143,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000097 (3).png,[[0.62580997 0.         1.1111494  ... 0.8901663  0.         1.5315473 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+144,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000098 (5).png,[[0.43274897 0.         0.7447276  ... 0.10628676 0.         1.2966774 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+145,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000098 (8).png,[[2.6180353 0.        1.746428  ... 0.        0.        1.8734107]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+146,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000099 (7).png,[[1.5647151 0.        2.490613  ... 0.0134685 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+147,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000100 (10).png,[[0.        0.        0.        ... 0.787855  0.        0.2211476]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+148,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000101 (7).png,[[1.940954   0.         1.9281842  ... 0.85915625 0.         0.58146024]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+149,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000102 (2).png,[[0.76175225 0.         1.8432282  ... 1.5451679  0.         0.        ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+150,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000102 (3).png,[[0.        0.        1.1034597 ... 1.9781804 0.        0.7709052]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+151,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000102 (7).png,[[0.         0.         0.         ... 0.40419602 0.         2.3406172 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+152,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000102.png,[[0.        0.        1.3006189 ... 2.7282343 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+153,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000103 (9).png,[[1.3554938 0.        1.8993394 ... 0.3544462 0.        1.1142662]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+154,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000104 (10).png,[[0.         0.         1.159293   ... 0.00643942 0.         1.3690386 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+155,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000104 (4).png,[[0.76239    0.         2.1501694  ... 0.82388735 0.         1.4218719 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+156,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000105 (3).png,[[0.6501998 0.        1.888884  ... 1.9508805 0.        0.9340801]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+157,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000105 (4).png,[[2.1771994  0.         1.2267842  ... 0.78988904 0.         1.5808059 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+158,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000105.png,[[0.9626487  0.         0.3393369  ... 1.9729614  0.         0.46173197]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+159,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000106 (10).png,[[0.        0.        0.        ... 1.2756658 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+160,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000106 (4).png,[[2.126895  0.        0.8603219 ... 1.716779  0.        1.0964191]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+161,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000106 (8).png,[[0.        0.        2.5153532 ... 1.0051781 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+162,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000107 (9).png,[[1.7708076  0.         2.1979105  ... 0.72614235 0.         1.4628158 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+163,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000118 (4).png,[[0.         0.         0.10052294 ... 2.8670433  0.         0.        ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+164,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000118 (6).png,[[1.2117034 0.        1.0047042 ... 2.4297671 0.        1.954402 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+165,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000119 (10).png,[[2.763873   0.         1.5028917  ... 0.12486762 0.         1.0908003 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+166,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000119 (4).png,[[0.7864408  0.         2.3404472  ... 0.56065637 0.         0.21318686]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+167,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000119 (5).png,[[2.110859  0.        2.423553  ... 1.5036852 0.        1.1608957]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+168,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000119 (6).png,[[0.03448927 0.         0.51035863 ... 1.0292954  0.50647026 1.8163435 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+169,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000121 (10).png,[[0.69218034 0.         1.5365041  ... 4.222749   0.         0.9596158 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+170,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000121 (9).png,[[0.        0.        1.7821475 ... 2.1259458 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+171,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000121.png,[[1.4239044  0.         1.3566636  ... 0.05654544 0.         1.2368605 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+172,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000122.png,[[1.6006767  0.         0.25642964 ... 1.9807861  0.         0.950677  ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+173,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad1.png,[[3.922215   0.         3.861044   ... 0.08743852 0.         0.        ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+174,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad10.png,[[3.691975  0.        0.5647944 ... 0.        0.        2.1087346]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+175,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad11.png,[[2.0044708 0.        0.        ... 0.        0.        1.1048131]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+176,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad12.png,[[2.3797138  0.         0.5679862  ... 0.76972455 0.         3.0441425 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+177,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad13.png,[[3.7617898 0.        0.7643849 ... 2.9414186 0.        0.       ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+178,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad14.png,[[0.47601855 0.         0.39908245 ... 0.         0.         1.9599967 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+179,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad15.png,[[1.364376 0.       0.       ... 0.       0.       0.      ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+180,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad16.png,[[0.         0.         0.         ... 0.10213715 0.         0.8697756 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+181,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad17.png,[[4.2634983  0.         3.0834432  ... 0.20556599 0.         0.80983114]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+182,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad18.png,[[1.6255536 0.        0.        ... 0.3177498 0.        2.043022 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+183,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad19.png,[[3.5026946  0.         0.17373699 ... 0.78199935 0.         2.4693856 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+184,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad2.png,[[2.8449464 0.        0.        ... 0.        0.        2.3973596]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+185,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad20.png,[[0.        0.        0.        ... 0.8594979 0.        1.6469209]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+186,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad21.png,[[0.         0.         0.         ... 0.10213715 0.         0.8697756 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+187,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad22.png,[[0.        0.        0.        ... 0.        0.        1.7052872]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+188,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad3.png,[[3.6066027 0.        1.0484068 ... 0.        0.        2.4573848]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+189,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad4.png,[[0.68420243 0.         1.8029724  ... 0.         0.         2.1668603 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+190,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad5.png,[[0.00965083 0.         0.         ... 0.         0.         1.8260369 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+191,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad6.png,[[2.5933585  0.         0.         ... 0.         0.46764845 1.5691328 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+192,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad7.png,[[3.2834802  0.         0.18666393 ... 1.4158471  0.         0.9781508 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+193,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad8.png,[[1.0263743  0.         0.90754455 ... 0.         0.         1.5263703 ]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+194,Data/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad9.png,[[0.        0.        0.        ... 2.348796  0.        2.9568288]],0,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+195,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000002.png,[[0.        0.        0.        ... 0.        0.811813  2.2869897]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+196,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000003 (3).png,[[1.0664065  0.         1.5978513  ... 0.39933208 0.         1.8375859 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+197,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000003 (4).png,[[0.9135357  0.         0.97467923 ... 0.07315272 0.         1.8401091 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+198,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000009 (3).png,[[1.4848733 0.        3.0246463 ... 1.4533775 0.        0.9344834]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+199,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000009 (4).png,[[1.2854131 0.        2.9914317 ... 1.4113054 0.        1.2217562]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+200,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000010.png,[[0.        0.        0.84716   ... 0.6657961 0.        0.       ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+201,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000015.png,[[0.31414112 0.         0.174202   ... 0.         0.         1.960084  ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+202,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000016 (3).png,[[2.0017574 0.        3.734747  ... 1.6337698 0.        1.706253 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+203,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000016 (4).png,[[1.5786786 0.        3.3564105 ... 1.886455  0.        1.3812671]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+204,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000017.png,[[1.8282338 0.        1.3316655 ... 0.        0.        1.1963513]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+205,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000018 (2).png,[[0.90878737 0.         0.         ... 0.29694146 0.         0.61454535]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+206,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000019 (3).png,[[2.6112309 0.        2.5297794 ... 1.528985  0.        2.3420215]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+207,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000019 (4).png,[[2.3944812 0.        2.6572433 ... 1.7592373 0.        2.0477343]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+208,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000020 (3).png,[[1.0994337 0.        2.9067922 ... 0.        0.        1.8887632]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+209,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000020 (4).png,[[1.3214917 0.        3.1695457 ... 0.9380961 0.        1.3548595]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+210,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000021.png,[[0.7701498  0.         0.86253816 ... 0.05371574 0.         0.08214325]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+211,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000023 (2).png,[[1.8211352 0.        0.634038  ... 0.3015342 0.        1.5011221]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+212,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000024 (2).png,[[0.         0.         0.         ... 1.0017508  0.52487934 1.858038  ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+213,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000026 (2).png,[[0.22647744 0.         1.5315094  ... 0.         0.         2.2032065 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+214,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000026.png,[[0.        0.        1.6190029 ... 0.1570527 0.        0.       ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+215,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000027 (2).png,[[0.3730095  0.         0.51765263 ... 1.2185     0.         0.        ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+216,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000027.png,[[0.8604041  0.         0.55490917 ... 0.         0.         0.8179411 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+217,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000031 (2).png,[[0.        0.        0.        ... 0.        0.        1.9916415]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+218,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000031.png,[[0.60242635 0.         0.5446514  ... 0.12457171 0.         0.97331595]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+219,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000032.png,[[0.07510006 0.         1.1373361  ... 1.4615804  0.         0.        ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+220,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000033 (3).png,[[1.5729288 0.        2.727096  ... 1.3587837 0.        1.0451007]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+221,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000033 (4).png,[[1.947754  0.        2.7165627 ... 1.5948269 0.        1.2004153]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+222,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000034 (2).png,[[0.76853514 0.         1.8586141  ... 0.07326427 0.         0.22088039]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+223,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000039 (3).png,[[1.6217597 0.        0.5505858 ... 0.        0.        2.2684464]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+224,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000039 (4).png,[[1.9371705 0.        0.7927687 ... 0.        0.        2.2322233]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+225,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000040 (2).png,[[0.        0.        0.        ... 0.        0.8374204 1.2730951]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+226,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000041 (3).png,[[2.191586  0.        3.4350047 ... 2.024569  0.        1.7428432]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+227,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000041 (4).png,[[1.5993528 0.        3.232761  ... 2.847832  0.        1.7381942]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+228,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000041.png,[[1.4252827  0.         0.38645247 ... 0.         0.         1.2132721 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+229,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000042 (2).png,[[0.         0.         1.5948259  ... 0.6422962  0.         0.79177445]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+230,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000043 (2).png,[[0.         0.         0.         ... 0.         0.86134493 0.83049357]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+231,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000045.png,[[0.8663477 0.        1.7206643 ... 0.        0.        1.4939903]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+232,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000046.png,[[0.32658678 0.         1.1415595  ... 0.8919017  0.         1.2091088 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+233,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000047 (2).png,[[0.         0.         0.         ... 0.18258741 0.09403118 1.4920425 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+234,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000051.png,[[0.10973406 0.         2.082315   ... 0.         0.         0.3688556 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+235,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000055 (3).png,[[2.3030481 0.        1.8613142 ... 0.5284353 0.        1.9930782]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+236,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000055 (4).png,[[2.5163722 0.        2.1242585 ... 0.3817373 0.        1.5877098]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+237,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000055.png,[[0.        0.        0.6913503 ... 2.9119565 0.        0.       ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+238,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000056 (3).png,[[1.287871   0.         3.38446    ... 0.05760926 0.         2.2559617 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+239,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000056 (4).png,[[1.3766109 0.        3.5768957 ... 0.0404709 0.        2.107259 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+240,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000057 (3).png,[[1.6135726 0.        2.2029223 ... 0.7129774 0.        1.9240854]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+241,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000057 (4).png,[[1.4052267  0.         2.054695   ... 0.73392785 0.         2.015506  ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+242,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000057.png,[[0.        0.        0.399954  ... 1.2186129 0.        0.       ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+243,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000058 (3).png,[[1.652253  0.        2.774654  ... 1.6488197 0.        1.5439792]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+244,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000058 (4).png,[[1.4759886 0.        2.6853042 ... 1.1071894 0.        1.6606814]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+245,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000059 (3).png,[[1.7341763  0.         2.3794284  ... 0.62122166 0.         2.3423154 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+246,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000059 (4).png,[[1.425256  0.        2.2240644 ... 0.9273475 0.        2.419967 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+247,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000060.png,[[0.        0.        0.        ... 1.9297833 0.        1.5503972]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+248,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000062 (2).png,[[1.4346483 0.        0.6934202 ... 0.4887743 0.        0.       ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+249,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000062 (3).png,[[1.5777462 0.        1.9243323 ... 2.2073047 0.        1.3244307]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+250,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000062 (4).png,[[1.6119237 0.        2.332992  ... 3.499576  0.        1.2461183]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+251,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000062.png,[[0.99633956 0.         0.         ... 0.24471182 0.         0.        ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+252,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000063 (2).png,[[2.1719255 0.        1.4873682 ... 0.        0.        2.3529747]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+253,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000063.png,[[0.         0.         0.3956773  ... 0.78997964 0.         0.        ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+254,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000065 (2).png,[[0.         0.         0.         ... 0.         0.17786926 2.6263287 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+255,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000066 (2).png,[[0.34629768 0.         0.         ... 0.7724779  0.         0.        ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+256,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000066.png,[[0.         0.         0.         ... 0.25287852 0.         0.        ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+257,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000068 (3).png,[[1.9687566 0.        3.1685348 ... 1.178477  0.        2.2539365]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+258,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000068 (4).png,[[2.3083837 0.        2.5882545 ... 1.1937333 0.        2.1656065]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+259,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000068.png,[[0.3145188  0.         0.8494191  ... 0.9789477  0.         0.05070281]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+260,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000069.png,[[0.         0.         0.19233906 ... 1.279285   0.         0.        ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+261,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000071 (2).png,[[0.9272182  0.         0.         ... 0.00241756 0.         0.20337677]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+262,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000072 (2).png,[[1.2897526  0.         2.4417663  ... 2.7369578  0.         0.29542434]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+263,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000073 (2).png,[[0.6351217 0.        0.6943737 ... 0.5910773 0.        2.1387913]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+264,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000076 (3).png,[[1.76221    0.         2.8819337  ... 0.97669107 0.         1.558203  ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+265,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000076 (4).png,[[1.8368441  0.         2.8961     ... 0.15042627 0.         1.797396  ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+266,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000077.png,[[0.3144989  0.         0.22879428 ... 0.07734561 0.         0.        ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+267,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000078 (3).png,[[1.2882879 0.        1.1969982 ... 2.4862142 0.        1.7263434]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+268,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000078 (4).png,[[1.4312704 0.        1.270367  ... 3.2956457 0.        1.4598367]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+269,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000080.png,[[0.48773217 0.         0.26712897 ... 0.         0.         3.329438  ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+270,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000081.png,[[0.57697713 0.         0.4140712  ... 0.         0.         0.8949506 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+271,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000084 (2).png,[[1.5279155 0.        1.2409765 ... 0.3886472 0.        1.1498712]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+272,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000084.png,[[1.1330392  0.         0.27290303 ... 0.         0.         1.0396522 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+273,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000089.png,[[0.         0.         1.1758621  ... 0.83571106 0.         0.        ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+274,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000093 (3).png,[[2.0232825 0.        1.835605  ... 1.149967  0.        1.7040746]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+275,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000093 (4).png,[[2.2693095 0.        1.9760674 ... 2.045425  0.        1.4488287]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+276,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000094 (2).png,[[0.60499805 0.         2.1753888  ... 2.201693   0.         1.0059347 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+277,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000094 (3).png,[[1.6545781  0.         1.8664155  ... 0.22700006 0.         1.410842  ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+278,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000094 (4).png,[[1.6859875  0.         2.057373   ... 0.48013735 0.         1.6700742 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+279,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000095 (2).png,[[0.01324034 0.         1.9481218  ... 1.3476913  0.         1.6340435 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+280,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000095 (3).png,[[1.1805838 0.        1.9553279 ... 2.0200236 0.        1.1618627]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+281,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000095 (4).png,[[1.5655047 0.        2.4200225 ... 3.7173784 0.        1.5696838]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+282,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000095.png,[[2.658689  0.        1.1869738 ... 0.        0.        0.6598787]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+283,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000097 (2).png,[[1.4494766  0.         0.14730513 ... 0.         0.         2.0606816 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+284,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000097.png,[[0.         0.         0.         ... 0.24178845 0.         0.        ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+285,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000098 (3).png,[[1.4944849  0.         2.4255114  ... 0.43728843 0.         1.6413679 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+286,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000098 (4).png,[[0.97247064 0.         2.0891304  ... 0.70298225 0.         1.764111  ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+287,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000104 (2).png,[[1.6193261 0.        2.8208485 ... 1.3297286 0.        1.0581121]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+288,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000104.png,[[1.452559 0.       0.       ... 0.       0.       0.      ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+289,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000105 (2).png,[[0.43376392 0.         0.792148   ... 0.         0.         1.629133  ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+290,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000105.png,[[0.        0.        0.        ... 0.5221969 0.        0.       ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+291,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000106 (2).png,[[1.2953992  0.         2.729123   ... 2.5737476  0.         0.77481914]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+292,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000106.png,[[0.8243909  0.         0.73088074 ... 0.02717751 0.         1.1842601 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+293,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000133.png,[[0.01406515 0.         1.9060426  ... 0.15834218 0.         1.8822308 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+294,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000137.png,[[2.1515775 0.        2.1182852 ... 3.6896808 0.        0.       ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+295,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000143.png,[[1.4303203 0.        1.469724  ... 1.8687837 0.        0.       ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+296,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000149.png,[[0.         0.         1.7294879  ... 3.8148663  0.         0.59121865]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+297,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000150.png,[[1.241329   0.         0.03420204 ... 0.6084634  0.         0.        ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+298,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000154.png,[[0.98127323 0.         0.36111125 ... 1.7774189  0.         0.06402582]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+299,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000159.png,[[1.113825   0.         1.7383186  ... 0.         0.         0.95899045]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+300,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000169.png,[[0.        0.        0.        ... 1.5510194 0.908376  1.9229481]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+301,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000172.png,[[0.19110912 0.         2.0349734  ... 0.96328354 0.         1.8556962 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+302,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\000173.png,[[0.2991627  0.         0.90219784 ... 1.3352042  0.         2.0079947 ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+303,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\di1.png,[[0.         0.         0.         ... 1.9660759  0.         0.20589551]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+304,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\l1.png,[[0.         0.         0.         ... 1.9511151  0.         0.16542798]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+305,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\l2.png,[[0.        0.        0.        ... 5.7352304 0.        0.       ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+306,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\l3.png,[[0.       0.       0.       ... 2.636723 0.       0.      ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+307,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\l4.png,[[0.        0.        0.        ... 0.9123224 0.        0.4713816]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+308,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\l5.png,[[4.1589174  0.         0.34188288 ... 0.6228427  0.         0.        ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+309,Data/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa\l6.png,[[0.        0.        0.        ... 3.3900461 0.        0.       ]],1,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+310,Data/train/normal\10 (2) - Copy.png,[[0.         0.         0.         ... 0.         0.         0.36536515]],2,normal
+311,Data/train/normal\10 (2).png,[[0.         0.         0.         ... 0.         0.         0.36536515]],2,normal
+312,Data/train/normal\10 - Copy (2) - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+313,Data/train/normal\10 - Copy (2).png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+314,Data/train/normal\10 - Copy (3).png,[[0.         0.         0.         ... 0.         0.         0.59878176]],2,normal
+315,Data/train/normal\10 - Copy - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+316,Data/train/normal\10 - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+317,Data/train/normal\10.png,[[0.         0.         0.         ... 0.         0.         0.59878176]],2,normal
+318,Data/train/normal\11 (2) - Copy.png,[[2.2093997  0.         2.4247437  ... 0.09831977 0.         3.7139585 ]],2,normal
+319,Data/train/normal\11 (2).png,[[2.2093997  0.         2.4247437  ... 0.09831977 0.         3.7139585 ]],2,normal
+320,Data/train/normal\11 - Copy (2) - Copy.png,[[1.7830197  0.         2.4418066  ... 0.10364318 0.         2.3496437 ]],2,normal
+321,Data/train/normal\11 - Copy (2).png,[[1.7830197  0.         2.4418066  ... 0.10364318 0.         2.3496437 ]],2,normal
+322,Data/train/normal\11 - Copy (3).png,[[1.8536631  0.         1.8872268  ... 0.19792032 0.         3.605296  ]],2,normal
+323,Data/train/normal\11 - Copy - Copy.png,[[1.6789382 0.        2.0073159 ... 1.6698954 0.        3.3646588]],2,normal
+324,Data/train/normal\11 - Copy.png,[[1.6789382 0.        2.0073159 ... 1.6698954 0.        3.3646588]],2,normal
+325,Data/train/normal\11.png,[[1.8536631  0.         1.8872268  ... 0.19792032 0.         3.605296  ]],2,normal
+326,Data/train/normal\12 (2) - Copy.png,[[0.         0.         0.         ... 0.         0.         0.06734085]],2,normal
+327,Data/train/normal\12 (2).png,[[0.         0.         0.         ... 0.         0.         0.06734085]],2,normal
+328,Data/train/normal\12 - Copy (2) - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+329,Data/train/normal\12 - Copy (2).png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+330,Data/train/normal\12 - Copy (3).png,[[0.        0.        0.        ... 0.        0.        0.7565418]],2,normal
+331,Data/train/normal\12 - Copy - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+332,Data/train/normal\12 - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+333,Data/train/normal\12.png,[[0.        0.        0.        ... 0.        0.        0.7565418]],2,normal
+334,Data/train/normal\13 (2) - Copy.png,[[2.9290051  0.         0.         ... 0.18576333 0.         1.1482824 ]],2,normal
+335,Data/train/normal\13 (2).png,[[2.9290051  0.         0.         ... 0.18576333 0.         1.1482824 ]],2,normal
+336,Data/train/normal\13 - Copy (2) - Copy.png,[[2.8415775  0.         0.         ... 0.22527334 0.         0.        ]],2,normal
+337,Data/train/normal\13 - Copy (2).png,[[2.8415775  0.         0.         ... 0.22527334 0.         0.        ]],2,normal
+338,Data/train/normal\13 - Copy (3).png,[[0.         0.         0.         ... 0.62824476 0.         0.        ]],2,normal
+339,Data/train/normal\13 - Copy - Copy.png,[[0.37060183 0.         0.         ... 0.         0.         0.        ]],2,normal
+340,Data/train/normal\13 - Copy.png,[[0.37060183 0.         0.         ... 0.         0.         0.        ]],2,normal
+341,Data/train/normal\13.png,[[0.         0.         0.         ... 0.62824476 0.         0.        ]],2,normal
+342,Data/train/normal\16 (2) - Copy.png,[[0.        0.        0.        ... 0.        0.        1.1742284]],2,normal
+343,Data/train/normal\16 (2).png,[[0.        0.        0.        ... 0.        0.        1.1742284]],2,normal
+344,Data/train/normal\16 - Copy (2) - Copy.png,[[0.        0.        0.        ... 1.761514  0.        1.1537155]],2,normal
+345,Data/train/normal\16 - Copy (2).png,[[0.        0.        0.        ... 1.761514  0.        1.1537155]],2,normal
+346,Data/train/normal\16 - Copy (3).png,[[0.         0.         0.         ... 0.         0.         0.99999934]],2,normal
+347,Data/train/normal\16 - Copy - Copy.png,[[0.        0.        0.        ... 0.        0.        0.6686082]],2,normal
+348,Data/train/normal\16 - Copy.png,[[0.        0.        0.        ... 0.        0.        0.6686082]],2,normal
+349,Data/train/normal\16.png,[[0.         0.         0.         ... 0.         0.         0.99999934]],2,normal
+350,Data/train/normal\17 (2) - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+351,Data/train/normal\17 (2).png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+352,Data/train/normal\17 - Copy (2) - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+353,Data/train/normal\17 - Copy (2).png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+354,Data/train/normal\17 - Copy (3).png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+355,Data/train/normal\17 - Copy - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+356,Data/train/normal\17 - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+357,Data/train/normal\17.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+358,Data/train/normal\18 (2) - Copy.png,[[0.69680405 0.         4.359528   ... 0.         0.         2.2397358 ]],2,normal
+359,Data/train/normal\18 (2).png,[[0.69680405 0.         4.359528   ... 0.         0.         2.2397358 ]],2,normal
+360,Data/train/normal\18 - Copy (2) - Copy.png,[[1.5269921 0.        2.849687  ... 1.0944841 0.        3.3586562]],2,normal
+361,Data/train/normal\18 - Copy (2).png,[[1.5269921 0.        2.849687  ... 1.0944841 0.        3.3586562]],2,normal
+362,Data/train/normal\18 - Copy (3).png,[[0.46709567 0.         2.1411185  ... 1.1695848  0.         3.6283286 ]],2,normal
+363,Data/train/normal\18 - Copy - Copy.png,[[0.6178858 0.        2.4320512 ... 1.0876095 0.        3.3431575]],2,normal
+364,Data/train/normal\18 - Copy.png,[[0.6178858 0.        2.4320512 ... 1.0876095 0.        3.3431575]],2,normal
+365,Data/train/normal\18.png,[[0.46709567 0.         2.1411185  ... 1.1695848  0.         3.6283286 ]],2,normal
+366,Data/train/normal\19 (2) - Copy.png,[[7.3867235  0.         0.         ... 0.         0.70923305 8.099039  ]],2,normal
+367,Data/train/normal\19 (2).png,[[7.3867235  0.         0.         ... 0.         0.70923305 8.099039  ]],2,normal
+368,Data/train/normal\19 - Copy (2) - Copy.png,[[1.1001887  0.         0.         ... 0.         0.60211825 6.3903084 ]],2,normal
+369,Data/train/normal\19 - Copy (2).png,[[1.1001887  0.         0.         ... 0.         0.60211825 6.3903084 ]],2,normal
+370,Data/train/normal\19 - Copy (3).png,[[7.797249   0.         0.         ... 0.         0.36256808 8.705799  ]],2,normal
+371,Data/train/normal\19 - Copy - Copy.png,[[7.838479  0.        0.        ... 0.        0.9733119 8.313151 ]],2,normal
+372,Data/train/normal\19 - Copy.png,[[7.838479  0.        0.        ... 0.        0.9733119 8.313151 ]],2,normal
+373,Data/train/normal\19.png,[[7.797249   0.         0.         ... 0.         0.36256808 8.705799  ]],2,normal
+374,Data/train/normal\2 (2) - Copy.png,[[0.         0.         0.         ... 1.9942203  0.         0.98531216]],2,normal
+375,Data/train/normal\2 (2).png,[[0.         0.         0.         ... 1.9942203  0.         0.98531216]],2,normal
+376,Data/train/normal\2 - Copy (2) - Copy.png,[[0.         0.         0.         ... 3.054941   0.         0.45114666]],2,normal
+377,Data/train/normal\2 - Copy (2).png,[[0.         0.         0.         ... 3.054941   0.         0.45114666]],2,normal
+378,Data/train/normal\2 - Copy (3).png,[[0.        0.        0.        ... 2.5420809 0.        0.       ]],2,normal
+379,Data/train/normal\2 - Copy.png,[[0.         0.         0.         ... 3.054941   0.         0.45114666]],2,normal
+380,Data/train/normal\2.png,[[0.        0.        0.        ... 2.5420809 0.        0.       ]],2,normal
+381,Data/train/normal\20 (2) - Copy.png,[[0.         0.         0.08635902 ... 0.         0.         0.9150418 ]],2,normal
+382,Data/train/normal\20 (2).png,[[0.         0.         0.08635902 ... 0.         0.         0.9150418 ]],2,normal
+383,Data/train/normal\20 - Copy (2) - Copy.png,[[0.         0.         1.0548847  ... 0.         0.         0.40970424]],2,normal
+384,Data/train/normal\20 - Copy (2).png,[[0.         0.         1.0548847  ... 0.         0.         0.40970424]],2,normal
+385,Data/train/normal\20 - Copy (3).png,[[0.         0.         0.08635902 ... 0.         0.         0.9150418 ]],2,normal
+386,Data/train/normal\20 - Copy - Copy.png,[[0.         0.         0.49742818 ... 0.         0.         0.8696758 ]],2,normal
+387,Data/train/normal\20 - Copy.png,[[0.         0.         0.49742818 ... 0.         0.         0.8696758 ]],2,normal
+388,Data/train/normal\20.png,[[0.         0.         0.08635902 ... 0.         0.         0.9150418 ]],2,normal
+389,Data/train/normal\21 - Copy (2) - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+390,Data/train/normal\21 - Copy (2).png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+391,Data/train/normal\21 - Copy - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+392,Data/train/normal\21 - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+393,Data/train/normal\3 (2) - Copy.png,[[0.         0.         1.1634294  ... 0.40318012 0.         1.5318379 ]],2,normal
+394,Data/train/normal\3 (2).png,[[0.         0.         1.1634294  ... 0.40318012 0.         1.5318379 ]],2,normal
+395,Data/train/normal\3 - Copy (2) - Copy.png,[[0.         0.         0.6754459  ... 0.         0.         0.10858601]],2,normal
+396,Data/train/normal\3 - Copy (2).png,[[0.         0.         0.6754459  ... 0.         0.         0.10858601]],2,normal
+397,Data/train/normal\3 - Copy (3).png,[[0.         0.         1.1634294  ... 0.40318012 0.         1.5318379 ]],2,normal
+398,Data/train/normal\3 - Copy - Copy.png,[[0.         0.         0.6754459  ... 0.         0.         0.10858601]],2,normal
+399,Data/train/normal\3 - Copy.png,[[0.         0.         0.6754459  ... 0.         0.         0.10858601]],2,normal
+400,Data/train/normal\3.png,[[0.         0.         1.1634294  ... 0.40318012 0.         1.5318379 ]],2,normal
+401,Data/train/normal\4 (2) - Copy.png,[[0.         0.         0.         ... 0.         0.         0.99981534]],2,normal
+402,Data/train/normal\4 (2).png,[[0.         0.         0.         ... 0.         0.         0.99981534]],2,normal
+403,Data/train/normal\4 - Copy (2) - Copy.png,[[0.        0.        0.        ... 0.        0.        0.5465856]],2,normal
+404,Data/train/normal\4 - Copy (2).png,[[0.        0.        0.        ... 0.        0.        0.5465856]],2,normal
+405,Data/train/normal\4 - Copy (3).png,[[0.         0.         0.         ... 0.         0.         0.99981534]],2,normal
+406,Data/train/normal\4 - Copy - Copy.png,[[0.        0.        0.        ... 0.        0.        0.5465856]],2,normal
+407,Data/train/normal\4 - Copy.png,[[0.        0.        0.        ... 0.        0.        0.5465856]],2,normal
+408,Data/train/normal\4.png,[[0.         0.         0.         ... 0.         0.         0.99981534]],2,normal
+409,Data/train/normal\5 (2) - Copy.png,[[0.18937057 0.         2.853201   ... 0.497658   0.         0.        ]],2,normal
+410,Data/train/normal\5 (2).png,[[0.18937057 0.         2.853201   ... 0.497658   0.         0.        ]],2,normal
+411,Data/train/normal\5 - Copy (2) - Copy.png,[[0.18937057 0.         2.853201   ... 0.497658   0.         0.        ]],2,normal
+412,Data/train/normal\5 - Copy (2).png,[[0.18937057 0.         2.853201   ... 0.497658   0.         0.        ]],2,normal
+413,Data/train/normal\5 - Copy (3).png,[[0.18937057 0.         2.853201   ... 0.497658   0.         0.        ]],2,normal
+414,Data/train/normal\5 - Copy - Copy.png,[[0.18937057 0.         2.853201   ... 0.497658   0.         0.        ]],2,normal
+415,Data/train/normal\5 - Copy.png,[[0.18937057 0.         2.853201   ... 0.497658   0.         0.        ]],2,normal
+416,Data/train/normal\5.png,[[0.18937057 0.         2.853201   ... 0.497658   0.         0.        ]],2,normal
+417,Data/train/normal\6 (2) - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+418,Data/train/normal\6 (2).png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+419,Data/train/normal\6 - Copy (2) - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+420,Data/train/normal\6 - Copy (2).png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+421,Data/train/normal\6 - Copy (3).png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+422,Data/train/normal\6 - Copy - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+423,Data/train/normal\6 - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+424,Data/train/normal\6.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+425,Data/train/normal\7 (2) - Copy.png,[[0.        0.        0.        ... 0.        0.        2.5776284]],2,normal
+426,Data/train/normal\7 (2).png,[[0.        0.        0.        ... 0.        0.        2.5776284]],2,normal
+427,Data/train/normal\7 - Copy (2) - Copy.png,[[1.2018504 0.        0.        ... 0.        0.        2.8967438]],2,normal
+428,Data/train/normal\7 - Copy (2).png,[[1.2018504 0.        0.        ... 0.        0.        2.8967438]],2,normal
+429,Data/train/normal\7 - Copy (3).png,[[0.        0.        0.        ... 0.        0.        2.5776284]],2,normal
+430,Data/train/normal\7 - Copy - Copy.png,[[1.2018504 0.        0.        ... 0.        0.        2.8967438]],2,normal
+431,Data/train/normal\7 - Copy.png,[[1.2018504 0.        0.        ... 0.        0.        2.8967438]],2,normal
+432,Data/train/normal\7.png,[[0.        0.        0.        ... 0.        0.        2.5776284]],2,normal
+433,Data/train/normal\8 (2) - Copy.png,[[0.         0.         0.         ... 0.         0.         0.83207434]],2,normal
+434,Data/train/normal\8 (2).png,[[0.         0.         0.         ... 0.         0.         0.83207434]],2,normal
+435,Data/train/normal\8 - Copy (2) - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+436,Data/train/normal\8 - Copy (2).png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+437,Data/train/normal\8 - Copy (3).png,[[0.         0.         0.         ... 0.         0.         0.27473682]],2,normal
+438,Data/train/normal\8 - Copy - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+439,Data/train/normal\8 - Copy.png,[[0. 0. 0. ... 0. 0. 0.]],2,normal
+440,Data/train/normal\8.png,[[0.         0.         0.         ... 0.         0.         0.27473682]],2,normal
+441,Data/train/normal\imm.png,[[0.         0.         0.         ... 3.054941   0.         0.45114666]],2,normal
+442,Data/train/normal\n7 (2) - Copy.png,[[0.         0.         0.32342896 ... 1.4751316  0.         1.9017322 ]],2,normal
+443,Data/train/normal\n7 (2).png,[[0.         0.         0.32342896 ... 1.4751316  0.         1.9017322 ]],2,normal
+444,Data/train/normal\n7 - Copy.png,[[0.         0.         0.32342896 ... 1.4751316  0.         1.9017322 ]],2,normal
+445,Data/train/normal\n7.png,[[0.         0.         0.32342896 ... 1.4751316  0.         1.9017322 ]],2,normal
+446,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000002 (4).png,[[0.588543  0.        0.1035243 ... 0.2529108 0.        1.1310304]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+447,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000002 (6).png,[[1.2310815 0.        1.2408264 ... 3.2411673 0.        0.6053553]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+448,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000003.png,[[1.5942667  0.         0.1827398  ... 0.15332037 0.         1.7515395 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+449,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000004 (4).png,[[1.0266385  0.         0.28245848 ... 0.         0.         1.7482889 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+450,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000004 (5).png,[[1.2569253  0.         2.0147853  ... 1.3478634  0.         0.49270838]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+451,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000004 (7).png,[[0.9913565  0.         1.6091795  ... 1.50987    0.         0.25534388]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+452,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000006 (4).png,[[0.88356733 0.         0.63351595 ... 1.3888209  0.         0.5395248 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+453,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000006.png,[[0.         0.         0.         ... 0.778565   0.31936812 2.560825  ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+454,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000007 (4).png,[[0.        0.        0.        ... 0.        0.        1.5610622]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+455,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000007.png,[[2.0108285  0.         1.8604126  ... 0.767607   0.         0.14499217]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+456,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000008 (3).png,[[1.6707263  0.         2.8876863  ... 0.30557758 0.         2.0406477 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+457,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000009 (2).png,[[2.039081  0.        1.07799   ... 2.415609  0.        1.6967809]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+458,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000010 (6).png,[[1.6108356 0.        0.8858106 ... 1.1623182 0.        1.9040332]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+459,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000013 (6).png,[[1.388962  0.        1.4440694 ... 1.9069583 0.        0.6045965]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+460,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000015 (5).png,[[1.3929073 0.        1.0329086 ... 0.        0.        1.6278348]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+461,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000015 (7).png,[[1.0363674 0.        1.1855006 ... 0.        0.        1.054776 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+462,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000016 (3).png,[[0.9888922 0.        1.4687582 ... 2.9261281 0.        1.8072166]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+463,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000017 (4).png,[[0.11498749 0.         1.9517816  ... 2.1844964  0.         0.9069964 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+464,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000018 (6).png,[[1.3952862  0.         0.79088813 ... 3.6476252  0.         1.1453483 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+465,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000024 (5).png,[[1.300403   0.         0.77487826 ... 1.3037212  0.         0.82753026]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+466,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000024 (7).png,[[0.5759129  0.         0.31643406 ... 1.5543835  0.         0.4102724 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+467,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000027 (2).png,[[1.8052621 0.        1.5472735 ... 2.4745135 0.        0.4749233]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+468,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000028 (4).png,[[1.9709802  0.         1.8111207  ... 0.8109602  0.         0.31755185]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+469,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000028 (5).png,[[1.2707938  0.         0.20027658 ... 0.25591254 0.         1.2068036 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+470,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000028 (7).png,[[1.4066604 0.        0.6320782 ... 0.3686016 0.        1.6244794]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+471,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000029 (4).png,[[1.332082   0.         0.         ... 1.5994332  0.         0.11458033]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+472,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000030 (2).png,[[1.2278457 0.        1.2332009 ... 3.3645525 0.        1.4230326]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+473,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000030 (5).png,[[1.0020896 0.        2.5643148 ... 1.517211  0.        0.6176089]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+474,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000030 (7).png,[[0.716561   0.         2.5197535  ... 0.82404435 0.         0.284837  ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+475,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000032.png,[[0.        0.        1.184289  ... 3.4384382 0.        0.       ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+476,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000033.png,[[1.4488595  0.         1.1969178  ... 1.2725027  0.         0.28758037]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+477,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000035 (5).png,[[1.2004634 0.        0.        ... 0.        0.        1.2522924]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+478,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000035.png,[[1.4628627  0.         0.40640476 ... 0.76765674 0.         1.6042063 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+479,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000036 (4).png,[[1.3178453  0.         0.09514681 ... 0.19814306 0.         0.9973709 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+480,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000037 (2).png,[[0.         0.         0.27551824 ... 3.6209607  0.         1.2920427 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+481,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000038 (2).png,[[1.4224541  0.         0.58392066 ... 3.2774565  0.         0.8606947 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+482,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000038 (5).png,[[1.1092848  0.         0.30787706 ... 0.         0.         1.1275895 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+483,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000038 (7).png,[[1.1477649 0.        0.3701944 ... 0.        0.        1.2412865]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+484,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000041 (4).png,[[1.0949883  0.         0.         ... 0.40006006 0.         0.        ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+485,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000043 (3).png,[[0.        0.        0.        ... 1.4564335 0.        2.0173013]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+486,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000043.png,[[2.7885838 0.        1.0212774 ... 2.1351566 0.        1.0193051]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+487,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000044 (2).png,[[2.0839942 0.        1.3468198 ... 0.899969  0.        1.1717559]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+488,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000046 (4).png,[[0.26961094 0.         0.         ... 0.         0.         0.5743133 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+489,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000046 (5).png,[[0.94997895 0.         0.5589843  ... 0.31323677 0.         1.5040696 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+490,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000046 (6).png,[[1.2016888 0.        1.3326313 ... 2.1153617 0.        1.606278 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+491,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000046 (7).png,[[0.7377654  0.         0.40241522 ... 0.43719214 0.         1.5471756 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+492,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000048 (5).png,[[1.8685102  0.         1.5471392  ... 1.5650034  0.         0.50282997]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+493,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000048 (7).png,[[1.6356434 0.        1.2721952 ... 2.0097628 0.        0.8898109]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+494,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000048.png,[[0.        0.        0.        ... 0.812651  0.        2.2762475]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+495,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000049 (3).png,[[1.7345967 0.        1.5049497 ... 3.4426978 0.        0.       ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+496,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000050 (2).png,[[1.7432412 0.        1.1701419 ... 1.6419351 0.        0.5100287]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+497,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000050 (6).png,[[1.0661323 0.        0.5007591 ... 1.9513569 0.        1.7323992]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+498,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000051 (3).png,[[1.77186   0.        0.8051607 ... 1.8576627 0.        1.4941453]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+499,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000052 (4).png,[[2.090309   0.         1.7087291  ... 0.6355841  0.         0.57144535]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+500,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000053 (6).png,[[1.4973011 0.        2.5549865 ... 3.8149958 0.        1.295481 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+501,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000053.png,[[0.         0.         0.46733993 ... 2.8748882  0.         0.25285265]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+502,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000054 (3).png,[[3.0468493 0.        1.6764987 ... 0.        0.        3.2413673]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+503,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000054.png,[[1.5658045 0.        1.4669403 ... 0.        0.        0.6281477]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+504,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000055 (2).png,[[1.1056536 0.        1.7443112 ... 2.073208  0.        1.9302602]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+505,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000055 (3).png,[[2.9129791 0.        1.9170958 ... 1.1115216 0.        2.161036 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+506,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000056 (5).png,[[1.6044884  0.         0.79847074 ... 1.9302137  0.         0.        ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+507,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000056 (7).png,[[0.61727935 0.         0.5655936  ... 2.423375   0.         0.        ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+508,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000057 (3).png,[[0.6059732  0.         0.         ... 0.03649038 0.         1.8564112 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+509,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000057 (4).png,[[0.62880623 0.         0.40998533 ... 0.31067574 0.         1.7025273 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+510,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000057 (5).png,[[1.5626264  0.         2.2039237  ... 1.1748643  0.         0.77894825]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+511,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000057 (6).png,[[1.198691  0.        1.0337343 ... 2.9060342 0.        0.9692484]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+512,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000057 (7).png,[[1.7714549  0.         1.893089   ... 0.26614302 0.         1.049504  ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+513,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000058 (3).png,[[2.2859807 0.        2.4672213 ... 1.3252114 0.        0.5282683]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+514,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000058 (5).png,[[0.6082367  0.         1.5563872  ... 0.9440655  0.         0.65188205]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+515,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000058 (7).png,[[1.1154294  0.         1.4427311  ... 0.48284492 0.         0.58060586]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+516,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000058.png,[[0.4742941  0.         1.9881865  ... 4.635934   0.         0.22710165]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+517,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000060 (2).png,[[0.        0.        0.9351754 ... 2.8558242 0.        1.7230844]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+518,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000062 (5).png,[[0.74022055 0.         1.387836   ... 0.         0.         1.0148606 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+519,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000062 (7).png,[[0.03091037 0.         1.390125   ... 1.1755993  0.         0.7916397 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+520,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000063 (3).png,[[0.2934898  0.         1.02906    ... 1.3528328  0.         0.95591044]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+521,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000063 (6).png,[[1.7299865  0.         1.055767   ... 1.5360568  0.         0.49914116]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+522,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000063.png,[[1.1930699 0.        1.142978  ... 1.2377689 0.        1.5215601]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+523,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000064 (4).png,[[0.9911184 0.        0.7818793 ... 1.1783862 0.        1.3242054]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+524,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000065 (5).png,[[1.8103477  0.         0.65224355 ... 0.         0.         1.7175965 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+525,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000065 (7).png,[[0.85478234 0.         0.62533224 ... 0.         0.         0.9745553 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+526,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000066 (2).png,[[1.2942011 0.        1.4743458 ... 1.8558397 0.        0.3480466]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+527,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000066.png,[[3.4240746 0.        1.1056683 ... 0.        0.        2.613073 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+528,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000067 (2).png,[[1.473444  0.        1.8961664 ... 3.2863505 0.        3.0106766]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+529,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000067 (3).png,[[1.0184659  0.         0.02225327 ... 1.5703087  0.         1.0957421 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+530,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000067 (5).png,[[0.80270267 0.         0.9425162  ... 0.         0.         1.3477916 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+531,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000067 (7).png,[[0.52136064 0.         0.49365944 ... 0.15131077 0.         1.0287219 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+532,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000068 (4).png,[[1.6024082 0.        1.2573521 ... 0.        0.        1.8568542]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+533,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000069 (2).png,[[0.         0.         0.88923156 ... 4.402785   0.         1.6131533 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+534,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000070 (2).png,[[1.6095128 0.        1.1077135 ... 0.3241492 0.        0.7285801]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+535,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000070.png,[[1.7696892 0.        0.9519158 ... 0.8299625 0.        0.7984145]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+536,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000071 (3).png,[[0.21042722 0.         0.7589605  ... 3.5028017  0.         0.77478176]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+537,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000073 (6).png,[[1.3105047 0.        1.4229242 ... 0.5978432 0.        1.0591887]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+538,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000074 (5).png,[[1.2398047  0.         1.6368936  ... 0.74581075 0.         0.02191252]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+539,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000074 (6).png,[[0.99959445 0.         0.4011585  ... 1.7493765  0.         1.662029  ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+540,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000074 (7).png,[[1.1949031  0.         2.0183973  ... 0.76564866 0.         0.        ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+541,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000075.png,[[1.0742987  0.         0.12987801 ... 0.50549    0.         2.9593105 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+542,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000077 (2).png,[[0.         0.         0.07452965 ... 1.7398624  0.         1.2479819 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+543,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000077 (4).png,[[0.5553162 0.        0.        ... 0.        0.        0.912349 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+544,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000077 (5).png,[[1.3484591  0.         1.8964331  ... 0.62494504 0.         2.5557284 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+545,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000078 (5).png,[[1.1556294  0.         0.69872975 ... 0.         0.         0.66884446]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+546,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000078 (7).png,[[0.8439032 0.        0.8466792 ... 0.        0.        1.1744164]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+547,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000078.png,[[1.7145499 0.        1.0207726 ... 0.        0.        3.4718254]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+548,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000079 (5).png,[[0.19806927 0.         0.         ... 1.379113   0.         2.0872693 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+549,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000079 (7).png,[[0.37312743 0.         0.         ... 0.         0.         2.322542  ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+550,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000079.png,[[0.        0.        1.8112577 ... 1.4890056 0.        2.1626823]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+551,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000081 (3).png,[[1.7649962 0.        1.6840981 ... 1.0390179 0.        0.6504797]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+552,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000081 (6).png,[[2.6368537 0.        1.8154932 ... 1.5899739 0.        0.4636501]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+553,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000081.png,[[1.2318296  0.         0.08719113 ... 0.16690052 0.         2.5177433 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+554,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000082 (3).png,[[1.1730919 0.        1.1949422 ... 1.4286702 0.        0.8952355]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+555,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000082 (4).png,[[1.4790529  0.         0.91465014 ... 0.         0.         1.9855764 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+556,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000083 (2).png,[[2.6369047 0.        1.6411204 ... 1.1760981 0.        1.251406 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+557,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000083 (5).png,[[0.8100374 0.        0.2924459 ... 1.5462143 0.        1.2160733]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+558,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000083 (6).png,[[0.81181216 0.         1.5822704  ... 3.1001682  0.         0.8721348 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+559,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000083 (7).png,[[0.30360264 0.         0.         ... 0.61153257 0.         0.7631359 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+560,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000084 (3).png,[[0.        0.        0.        ... 3.4384756 0.        2.717707 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+561,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000084 (5).png,[[1.6780677 0.        1.7284647 ... 0.7315752 0.        0.       ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+562,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000084 (7).png,[[1.1548095  0.         0.9258133  ... 1.3499734  0.         0.05479974]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+563,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000085.png,[[1.8331027  0.         0.9639083  ... 2.751533   0.         0.32219914]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+564,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000088.png,[[0.61142564 0.         0.         ... 1.8380272  0.         0.08664674]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+565,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000089 (4).png,[[1.0823324  0.         2.0362191  ... 0.41734034 0.         1.2037809 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+566,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000090 (6).png,[[2.4977386 0.        2.9400396 ... 2.777872  0.        2.2345247]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+567,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000091 (5).png,[[0.        0.        0.        ... 0.        0.        1.7004972]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+568,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000091 (7).png,[[0.00905979 0.         0.0534308  ... 0.         0.         1.1667175 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+569,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000093.png,[[0.29978222 0.         0.5037035  ... 1.9822311  0.         0.        ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+570,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000094 (3).png,[[0.2601784 0.        1.1657704 ... 3.893738  0.        1.0149608]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+571,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000094.png,[[1.0318588  0.         0.4946418  ... 2.1702986  0.         0.87271225]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+572,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000096 (2).png,[[2.087658   0.         2.1554341  ... 1.6229722  0.         0.38881868]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+573,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000096.png,[[1.4660828  0.         0.69709516 ... 2.9448898  0.         0.        ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+574,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000099 (2).png,[[1.7451092 0.        2.426446  ... 2.0992522 0.        0.6095501]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+575,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000099 (3).png,[[1.9435683 0.        0.576535  ... 0.2126812 0.        1.5762854]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+576,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000100 (4).png,[[0.6234459  0.         0.6276799  ... 0.38479698 0.         0.4873746 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+577,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000101 (3).png,[[2.2376888 0.        2.1376438 ... 1.2414527 0.        1.2353776]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+578,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000103.png,[[0.6774218 0.        1.2909455 ... 1.5901394 0.        0.       ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+579,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000104 (2).png,[[0.5452613 0.        0.5851157 ... 2.1566567 0.        1.7113526]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+580,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000104.png,[[1.845949  0.        2.2779508 ... 1.3942626 0.        0.6327186]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+581,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000105 (5).png,[[1.2809911  0.         0.84761196 ... 1.0437424  0.         1.0319788 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+582,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000105 (7).png,[[1.1608673 0.        0.8193249 ... 0.914014  0.        0.7253972]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+583,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000106 (3).png,[[1.6041579 0.        3.3978586 ... 1.4518759 0.        0.5495316]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+584,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000106 (4).png,[[0.        0.        0.        ... 2.806521  0.        1.5178902]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+585,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000106 (5).png,[[1.727797  0.        0.7928467 ... 0.        0.        0.8104069]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+586,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000106 (6).png,[[2.7099094 0.        2.120768  ... 2.5480833 0.        0.3874065]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+587,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000106 (7).png,[[1.3303896  0.         0.801252   ... 0.         0.         0.31082824]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+588,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000120 (2).png,[[2.2053504 0.        1.1910412 ... 2.1349745 0.        1.5349948]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+589,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000120 (4).png,[[1.181826  0.        1.1410072 ... 0.9636504 0.        1.8518972]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+590,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000120 (6).png,[[0.         0.         0.13060606 ... 0.20949316 0.         1.1016148 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+591,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000121 (2).png,[[1.846264   0.         1.103991   ... 3.2302306  0.         0.75135624]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+592,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000121.png,[[1.221175   0.         0.68664825 ... 0.06924844 0.         1.4345465 ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+593,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000122 (3).png,[[3.900631  0.        1.6372342 ... 0.        0.        1.7532175]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+594,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\000122.png,[[1.0467473 0.        1.2616093 ... 3.4336877 0.        0.       ]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+595,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\sq1.png,[[0.        0.        0.        ... 0.6124368 0.        1.2607051]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+596,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\sq2.png,[[0.        0.        0.        ... 0.9123224 0.        0.4713816]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+597,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\sq3.png,[[0.         0.         0.         ... 0.         0.         0.95148706]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+598,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\sq4.png,[[0.         0.         0.         ... 0.         0.         0.95148706]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+599,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\sq5.png,[[1.0856376 0.        2.4059935 ... 0.        0.        2.5878367]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+600,Data/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa\sq6.png,[[1.0856376 0.        2.4059935 ... 0.        0.        2.5878367]],3,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
