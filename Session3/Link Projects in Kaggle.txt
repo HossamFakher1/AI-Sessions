@@ -1,0 +1,11 @@
+https://www.kaggle.com/code/hossamfakher/surface-crack-detection
+https://www.kaggle.com/code/hossamfakher/open-close-eyes-acc-99-9
+https://www.kaggle.com/code/hossamfakher/asl-alphabet-acc-99
+https://www.kaggle.com/code/hossamfakher/malaria-acc-96
+https://www.kaggle.com/code/hossamfakher/x-ray-bone-acc-100
+https://www.kaggle.com/code/hossamfakher/skin-cancer-acc-86-5
+https://www.kaggle.com/code/hossamfakher/covid-19-classification-acc-90
+https://www.kaggle.com/code/hossamfakher/covid19-loss-0-33
+https://www.kaggle.com/code/hossamfakher/mask-classification
+https://www.kaggle.com/code/hossamfakher/traffic-sign-classification-acc-96
+
